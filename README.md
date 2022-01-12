@@ -1,2 +1,8 @@
-# Drum Kit JS
- Drum Kit JavaScript Project as part of JavaScript30 Coursework
+Drum Kit
+========  
+
+[Live Website](https://utkarshpathrabe.github.io/Drum-Kit-JS/)  
+
+Drum Kit created using JavaScript  
+
+![Welcome Page](./assets/welcome_page.png)  
